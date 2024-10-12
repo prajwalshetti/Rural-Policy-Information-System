@@ -1,0 +1,8 @@
+{
+  "scripts": {"start": "node 1.js"},
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node": "^20.16.0",
+    "twilio": "^5.2.2"
+  }
+}
