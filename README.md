@@ -28,11 +28,13 @@ This project is a full-stack application built with Express.js for the backend a
 - **SMS Service**: Twilio
 
 ## API Endpoints
+
 **User Management
 Create a User**
 POST /api/users
 Get All Users
 GET /api/users
+
 **Query Management**
 **Create a Query**
 PUT /api/query
@@ -40,6 +42,7 @@ Get All Queries
 GET /api/query
 Update Query Status
 PUT /api/query/edit
+
 **Policy Management
 Create a Policy**
 PUT /api/policy
@@ -47,6 +50,7 @@ Get a Policy by ID
 GET /api/policy
 Get All Policies
 GET /api/policy/all
+
 **Get Eligible Policies**
 GET /api/policy/eligible
 
